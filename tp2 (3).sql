@@ -65,8 +65,8 @@ CREATE TABLE IF NOT EXISTS `t_commentaire` (
 --
 
 INSERT INTO `t_commentaire` (`COM_ID`, `COM_DATE`, `COM_AUTEUR`, `COM_CONTENU`, `tic_ID`) VALUES
-(1, '2020-03-20 16:29:44', 'Colin', 'On peut commenter ce ticket ouvert ?', 2),
-(2, '2020-03-20 16:30:00', 'Julie', 'Oui, c\'est plutôt agréable !', 2);
+(1, '2020-03-20 16:29:44', 'Louis', 'On peut commenter ce ticket ouvert ?', 2),
+(2, '2020-03-20 16:30:00', 'Antoine', 'Oui, c\'est plutôt agréable !', 2);
 
 -- --------------------------------------------------------
 
